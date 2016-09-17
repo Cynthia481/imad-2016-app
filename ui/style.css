@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: Monotype Corsiva;
     background-color: wheat;
     margin-top: 75px;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: lighter;
 }
 
 .img-medium {
